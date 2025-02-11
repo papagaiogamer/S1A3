@@ -5,4 +5,4 @@ const formatResponse = (message) => {
   };
 };
 
-module.exprts = {formatResponse};
+module.exports = {formatResponse};
